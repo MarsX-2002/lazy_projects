@@ -1,0 +1,16 @@
+1. transformer networks
+2. FLAN T5 - open source LLM
+3. fine tune - LLM with your data, without training new model
+4. prompt - text given as input
+5. context window - prompt size box ~ 1000
+6. prompt -> model -> completion(output)
+7. inference -  act of using model to generate text 
+---------------
+use cases:
+llm use cases: text summarize, translate, code generate, extract valuable info from text, connect with external APIs,
+
+---------------
+fine tune small LLMs to do well in specific task
+---------------
+Rip RRN, welcome Transformer architecture:
+scale efficiently, parallel process, attention to input meaning
